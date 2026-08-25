@@ -21,8 +21,13 @@ Python 3
 requests — for HTTP requests
 beautifulsoup4 (bs4) — for HTML parsing
 Usage
-bash
+
+Install dependencies:
+
 pip install requests beautifulsoup4
+
+Run the script:
+
 python wikipedia_extractor.py
 
 Then paste a Wikipedia article URL when prompted, e.g.:
